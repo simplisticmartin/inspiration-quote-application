@@ -1,3 +1,4 @@
+//Note that the dates are when these quotes became discovered to me
 let quotes = [
 {
     quote : "History is written by victors",
@@ -28,6 +29,18 @@ let quotes = [
     meaningPage: ""
 
 }
+,
+{
+
+    quote : "You can't control everything that happens to you but you can control how you react to things that are out of your control",
+    date: "sometime/2014",
+    author: "Epictetus?(originally)",
+    picUrl: "img/epictetus.jpg",
+    wikiLink: "",
+    meaningPage: ""
+
+}
 ]
+let numberOfQuotes = quotes.length
 
 console.log(quotes)

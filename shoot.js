@@ -12,3 +12,4 @@ fetch("quotes.json").then(function(u){
 console.log(jsonData)
     //json => console.log(json));
 */
+
