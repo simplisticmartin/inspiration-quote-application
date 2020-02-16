@@ -1,4 +1,4 @@
-# Personal Quote TimeLine - My Inspiration Quote Application
+# [Personal Quote TimeLine - My Inspiration Quote Application](https://simplisticmartin.github.io/Projects/Quote-Generator/)
 - [TRY HERE](https://simplisticmartin.github.io/Projects/Quote-Generator/)
 
 ## Instructions when trying
